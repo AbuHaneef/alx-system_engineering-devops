@@ -1,1 +1,1 @@
-task 0 prints hello world
+display content of password file
