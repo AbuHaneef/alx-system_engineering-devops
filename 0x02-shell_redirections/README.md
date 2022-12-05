@@ -1,1 +1,1 @@
-display content of password file
+display two files
